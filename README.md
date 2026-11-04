@@ -1,61 +1,128 @@
-Hi, I'm John Dera 👋
-I’m a developer and tech enthusiast passionate about Web Development, Python, Networking, and IoT.
+<h1 align="center">Hi 👋, I'm John Dera</h1>
 
-For me, building tech is all about practical utility—creating real-world solutions that fix actual problems, from smart agriculture tools to network infrastructure.
+<p align="center">
+  <b>Web Developer • Network Technologies • Python & IoT Enthusiast</b>
+</p>
 
-What I Work With
-🌐 Web & Software Development
-Frontend & Core: HTML5, CSS3, JavaScript, Flutter
+<p align="center">
+  Building practical technology solutions — from web applications and intelligent systems to networking infrastructure and smart agriculture.
+</p>
 
-Backend & APIs: Python, Flask, FastAPI
+---
 
-Databases: MySQL, SQLite
+## 👨‍💻 About Me
 
-Dev Tools: Git, GitHub, VS Code
+I'm a developer and technology enthusiast passionate about building **practical, real-world solutions**.
 
-🖥️ Systems & Networking
-Infrastructure: Active Directory, Hyper-V, Server Administration
+My background combines **Web Development, Python, Networking, Cloud Computing, and IoT**. I'm particularly interested in using technology to solve problems through intelligent and connected systems.
 
-Networking: Switch/Router Configuration, Fibre Optics, Network Security Fundamentals
+- 🌐 Building web applications and APIs
+- 🐍 Growing my skills in Python and AI
+- 🖥️ Working with networking and systems infrastructure
+- 🌱 Exploring IoT and smart agriculture
+- 🤖 Interested in Machine Learning and intelligent systems
 
-Cloud: AWS (Cloud Computing Essentials)
+---
 
-🤖 AI, Machine Learning & IoT
-Data & AI: Python for Data Analysis, ML Basics, Intelligent Systems
+## 🛠️ Tech Stack
 
-IoT Hardware & Sensors: Edge Computing, Microclimate Monitoring, Environmental Sensors
+### 💻 Development
 
-Featured Projects
-🌡️ Edge-IoT Frost Risk Monitoring System
-A local microclimate system that tracks temperature, humidity, dew point, and dew-point depression to predict frost risks in real time. Features an edge node, web dashboard, and automated SMS alerts for farmers.
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,flask,fastapi,flutter" />
+</p>
 
-🌾 Agriculture AI Chatbot
-An interactive assistant designed to help farmers and users access agricultural advice quickly.
+### 🗄️ Tools & Databases
 
-Tech Stack: Python, FastAPI, External AI APIs, Web UI
-<img src="https://skillicons.dev/icons?i=html,css,js,python,flask,git,github,vscode" />
-<img src="https://github-readme-stats.vercel.app/api?username=JohnDera03&show_icons=true" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode" />
+</p>
 
-🌐 Anotida Capital Platform
-A full-featured web platform built to handle company services and client interactions.
+### 🖥️ Systems & Networking
 
-What I’m Focused On Right Now
-Fine-tuning my Python and full-stack web development skills.
+**Active Directory • Hyper-V • Server Administration • Network Configuration • Fibre Optics • Network Security**
 
-Building out edge computing setups and sensor arrays for smart farming.
+### ☁️ Cloud & Emerging Technologies
 
-Diving deeper into practical Machine Learning implementations.
+**AWS • Artificial Intelligence • Machine Learning • Edge Computing • IoT**
 
-expanding my AWS architecture knowledge.
+---
 
-Certifications
-AWS: Cloud Computing Essentials
+## 🚀 Featured Projects
 
-Networking: Network Basics, Network Essentials, Networking Devices & Initial Configuration
+### 🌱 Edge-IoT Frost Risk Monitoring System
 
-Programming & Systems: Python Essentials, AI Fundamentals, Computer Operations
+An Edge-IoT system designed to monitor local microclimate conditions and provide early warnings of approaching frost risk.
 
-Get in Touch
-LinkedIn: https://www.linkedin.com/in/john-dera-9803922a0/
+**Technologies & Features:**
 
-Email: johndera03@gmail.com
+`IoT Sensors` • `Edge Computing` • `Temperature & Humidity` • `Dew Point` • `Web Dashboard` • `SMS Alerts`
+
+---
+
+### 🌾 Agriculture AI Chatbot
+
+An interactive assistant designed to help farmers and users access agricultural information quickly.
+
+**Built with:**
+
+`Python` • `FastAPI` • `AI APIs` • `Web Technologies`
+
+---
+
+### 🌐 Anotida Capital Platform
+
+A web platform designed to support company services and improve interactions between clients and service providers.
+
+**Built with:**
+
+`HTML` • `CSS` • `JavaScript` • `Web Technologies`
+
+---
+
+## 🎯 Currently Focused On
+
+```text
+🐍 Improving Python and full-stack development skills
+🤖 Exploring practical Machine Learning implementations
+🌱 Building Edge-IoT systems for smart agriculture
+☁️ Expanding Cloud Computing knowledge
+🌐 Developing practical web applications
+```
+
+---
+
+## 📜 Certifications
+
+**Cloud & AI**
+- AWS Cloud Computing Essentials
+- Artificial Intelligence Fundamentals
+
+**Networking**
+- Network Basics
+- Network Essentials
+- Networking Devices and Initial Configuration
+
+**Programming & Systems**
+- Python Essentials
+- Computer Operations and Packages
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/john-dera-98039220/">
+    LinkedIn
+  </a>
+  &nbsp; • &nbsp;
+  <a href="mailto:johndera03@gmail.com">
+    Email
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Always learning. Always building. Always improving.</i>
+</p>
