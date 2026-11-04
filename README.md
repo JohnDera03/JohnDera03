@@ -1,128 +1,96 @@
-<h1 align="center">Hi 👋, I'm John Dera</h1>
+<div align="center">
 
-<p align="center">
-  <b>Web Developer • Network Technologies • Python & IoT Enthusiast</b>
-</p>
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=200&section=header&text=John%20Dera&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-<p align="center">
-  Building practical technology solutions — from web applications and intelligent systems to networking infrastructure and smart agriculture.
-</p>
+<!-- Typing Dynamic Title -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4364F7&center=true&vCenter=true&width=500&lines=Web+Developer+%26+Systems+Builder;Network+Infrastructure+%26+Security;Python+%26+Edge-IoT+Developer;Smart+Agriculture+Solutions" alt="Typing SVG" />
+</a>
 
----
+<br/><br/>
 
-## 👨‍💻 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-dera-98039220/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johndera03@gmail.com)
 
-I'm a developer and technology enthusiast passionate about building **practical, real-world solutions**.
+</div>
 
-My background combines **Web Development, Python, Networking, Cloud Computing, and IoT**. I'm particularly interested in using technology to solve problems through intelligent and connected systems.
+<br/>
 
-- 🌐 Building web applications and APIs
-- 🐍 Growing my skills in Python and AI
-- 🖥️ Working with networking and systems infrastructure
-- 🌱 Exploring IoT and smart agriculture
-- 🤖 Interested in Machine Learning and intelligent systems
+## Profile Summary
 
----
-
-## 🛠️ Tech Stack
-
-### 💻 Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,flask,fastapi,flutter" />
-</p>
-
-### 🗄️ Tools & Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode" />
-</p>
-
-### 🖥️ Systems & Networking
-
-**Active Directory • Hyper-V • Server Administration • Network Configuration • Fibre Optics • Network Security**
-
-### ☁️ Cloud & Emerging Technologies
-
-**AWS • Artificial Intelligence • Machine Learning • Edge Computing • IoT**
+Engineered at the intersection of **software development, network infrastructure, and physical edge computing (IoT)**. Focused on building high-reliability web applications, managing server environments, and developing smart telemetry systems for real-world applications.
 
 ---
 
-## 🚀 Featured Projects
+## Technical Stack
 
-### 🌱 Edge-IoT Frost Risk Monitoring System
-
-An Edge-IoT system designed to monitor local microclimate conditions and provide early warnings of approaching frost risk.
-
-**Technologies & Features:**
-
-`IoT Sensors` • `Edge Computing` • `Temperature & Humidity` • `Dew Point` • `Web Dashboard` • `SMS Alerts`
-
----
-
-### 🌾 Agriculture AI Chatbot
-
-An interactive assistant designed to help farmers and users access agricultural information quickly.
-
-**Built with:**
-
-`Python` • `FastAPI` • `AI APIs` • `Web Technologies`
-
----
-
-### 🌐 Anotida Capital Platform
-
-A web platform designed to support company services and improve interactions between clients and service providers.
-
-**Built with:**
-
-`HTML` • `CSS` • `JavaScript` • `Web Technologies`
+<table>
+  <tr>
+    <td width="25%"><b>Development</b></td>
+    <td>Python • JavaScript • FastAPI • Flask • Flutter • HTML5 • CSS3</td>
+  </tr>
+  <tr>
+    <td><b>Infrastructure & Networks</b></td>
+    <td>Active Directory • Hyper-V • Server Admin • Fibre Optics • Network Security</td>
+  </tr>
+  <tr>
+    <td><b>Hardware & Edge</b></td>
+    <td>Edge Computing • IoT Sensors • Telemetry Systems • Embedded Python</td>
+  </tr>
+  <tr>
+    <td><b>Database & Tools</b></td>
+    <td>MySQL • SQLite • Git • GitHub • VS Code • AWS</td>
+  </tr>
+</table>
 
 ---
 
-## 🎯 Currently Focused On
+## Featured Work
 
-```text
-🐍 Improving Python and full-stack development skills
-🤖 Exploring practical Machine Learning implementations
-🌱 Building Edge-IoT systems for smart agriculture
-☁️ Expanding Cloud Computing knowledge
-🌐 Developing practical web applications
-```
+### Edge-IoT Frost Risk Monitoring System
+> **Telemetry & Microclimate Detection**
+> 
+> An automated edge-computing solution that captures environmental temperature, humidity, and dew point metrics in real time. Features local anomaly detection and automated alert dispatches via web dashboard and SMS.
+> 
+> `IoT` `Edge Computing` `Python` `Web Dashboard` `SMS Gateway`
 
----
+<br/>
 
-## 📜 Certifications
+### Agriculture AI Assistant
+> **Interactive Knowledge Agent**
+> 
+> A specialized FastAPI service integrating agricultural intelligence to query and return real-time agronomic insights for farm management.
+> 
+> `Python` `FastAPI` `LLM APIs` `REST API`
 
-**Cloud & AI**
-- AWS Cloud Computing Essentials
-- Artificial Intelligence Fundamentals
+<br/>
 
-**Networking**
-- Network Basics
-- Network Essentials
-- Networking Devices and Initial Configuration
-
-**Programming & Systems**
-- Python Essentials
-- Computer Operations and Packages
-
----
-
-## 🤝 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/john-dera-98039220/">
-    LinkedIn
-  </a>
-  &nbsp; • &nbsp;
-  <a href="mailto:johndera03@gmail.com">
-    Email
-  </a>
-</p>
+### Anotida Capital Platform
+> **Enterprise Web Platform**
+> 
+> Modern web application developed to handle service requests, client management, and streamlined interaction between clients and service teams.
+> 
+> `JavaScript` `HTML5` `CSS3` `UI/UX`
 
 ---
 
-<p align="center">
-  <i>Always learning. Always building. Always improving.</i>
-</p>
+## Overview & Metrics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=johndera&show_icons=true&theme=tokyonight&hide_border=true" />
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johndera&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Animated Wave Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=100&section=footer" width="100%" />
+
+</div>
